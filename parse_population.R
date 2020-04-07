@@ -1,6 +1,7 @@
 library(openxlsx)
 library(data.table)
 library(stringr)
+library(readr)
 library(rvest)
 
 dt <- setDT(read.xlsx("mil_insts_info.xlsx"))
@@ -120,6 +121,7 @@ rgx_num_str <- "[0-9]{1,3},?+[0-9]{1,3},?+[0-9]{1,3}\\+?\\s([^\\s\\.,]+\\s){0,4}
 
 dt <- get_pop_cnt(dt, col, rgx_str_num, rgx_num_str)
 
-
+write_csv(dt[,.(region, location, name, pop_active_duty, pop_active_duty_fam, pop_civilian, pop_contract, pop_retired, pop_retired_fam, pop_resrv_ntgrd)], "mil_insts_population_parse.csv")
+write_csv(dt[,.(region, location, name, population, pop_active_duty, pop_active_duty_fam, pop_civilian, pop_contract, pop_retired, pop_retired_fam, pop_resrv_ntgrd)], "mil_insts_population_parse_with_raw.csv")
 openxlsx::write.xlsx(dt[,.(region, location, name, population, pop_active_duty, pop_active_duty_fam, pop_civilian, pop_contract, pop_retired, pop_retired_fam, pop_resrv_ntgrd)], "mil_insts_population_parse.xlsx")
 

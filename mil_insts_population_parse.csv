@@ -1,0 +1,308 @@
+region,location,name,pop_active_duty,pop_active_duty_fam,pop_civilian,pop_contract,pop_retired,pop_retired_fam,pop_resrv_ntgrd
+CONUS,Alabama,Anniston Army Depot,NA,NA,NA,NA,NA,NA,NA
+CONUS,Alabama,Fort Rucker,5009,5097,10104,NA,NA,NA,NA
+CONUS,Alabama,Maxwell AFB and Gunter Annex,NA,NA,NA,NA,NA,NA,NA
+CONUS,Alabama,Redstone Arsenal,850,NA,35500,NA,15000,NA,NA
+CONUS,Alabama,"USAREC, 2nd Medical Recruiting Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Alabama,"USAREC, Montgomery Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Arizona,Davis-Monthan AFB,NA,NA,NA,NA,NA,NA,NA
+CONUS,Arizona,Fort Huachuca,5600,11000,11000,NA,NA,NA,NA
+CONUS,Arizona,Luke AFB,4800,6700,800,NA,65000,NA,1700
+CONUS,Arizona,MCAS Yuma,6592,5531,5000,NA,NA,NA,NA
+CONUS,Arizona,"USAREC, Phoenix Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Arizona,Yuma Proving Ground,NA,NA,NA,NA,NA,NA,NA
+CONUS,Arkansas,Little Rock AFB,6995,5582,1316,NA,NA,NA,NA
+CONUS,Arkansas,Pine Bluff Arsenal,NA,NA,NA,NA,NA,NA,NA
+CONUS,California,Beale AFB,3920,4032,756,NA,35000,NA,1200
+CONUS,California,Camp Parks,NA,NA,NA,NA,NA,NA,NA
+CONUS,California,Camp Pendleton,42000,38000,70000,NA,77000,NA,NA
+CONUS,California,Defense Distribution Depot San Joaquin,NA,NA,NA,NA,NA,NA,NA
+CONUS,California,Edwards AFB,2207,2104,4302,2265,NA,NA,4302
+CONUS,California,Fort Hunter Liggett,NA,NA,NA,NA,NA,NA,NA
+CONUS,California,Fort Irwin,4331,7701,7306,NA,NA,NA,NA
+CONUS,California,Los Angeles AFB,1300,2067,1700,NA,NA,NA,NA
+CONUS,California,MCLB Barstow,NA,NA,1482,488,NA,NA,NA
+CONUS,California,MCRD San Diego,1200,NA,1200,NA,NA,NA,NA
+CONUS,California,March ARB,NA,NA,1750,NA,NA,NA,NA
+CONUS,California,Marine Corps Air Station Miramar,NA,NA,NA,NA,NA,NA,NA
+CONUS,California,Marine Corps Mountain Warfare Training Center (MWTC),250,NA,100,NA,NA,NA,NA
+CONUS,California,Naval Air Facility El Centro,NA,NA,NA,NA,NA,NA,NA
+CONUS,California,Naval Air Station Lemoore,13978,7476,2403,NA,10006,24032,355
+CONUS,California,Naval Air Weapons Station China Lake,NA,NA,NA,NA,NA,NA,NA
+CONUS,California,Naval Base Coronado,NA,NA,NA,NA,NA,NA,NA
+CONUS,California,Naval Base Point Loma,NA,NA,NA,NA,NA,NA,NA
+CONUS,California,Naval Base San Diego,42500,NA,NA,NA,NA,NA,NA
+CONUS,California,Naval Base Ventura County - Point Mugu/Port  Hueneme,NA,NA,NA,NA,NA,NA,NA
+CONUS,California,Naval Support Activity Monterey,NA,NA,NA,NA,NA,NA,NA
+CONUS,California,Presidio of Monterey (DLI/FLC),NA,NA,1590,NA,NA,NA,NA
+CONUS,California,Travis Air Force Base,6641,NA,NA,NA,NA,NA,NA
+CONUS,California,Twentynine Palms (MCAGCC),NA,NA,NA,NA,NA,NA,NA
+CONUS,California,"USAREC, Los Angeles Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,California,"USAREC, Southern California Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,California,"USAREC, US Army Battalion Central California",NA,NA,NA,NA,NA,NA,NA
+CONUS,California,"USAREC, US Army Recruiting Battalion Northern California",285,160,NA,NA,NA,NA,NA
+CONUS,California,Vandenberg AFB,2892,3785,1143,2822,8000,NA,NA
+CONUS,Colorado,Buckley AFB,460,NA,NA,NA,NA,NA,NA
+CONUS,Colorado,Fort Carson,NA,NA,NA,NA,NA,NA,NA
+CONUS,Colorado,Peterson AFB,5750,10200,1901,NA,17000,NA,1325
+CONUS,Colorado,Schriever AFB,NA,666,596,2496,NA,NA,485
+CONUS,Colorado,USAF Academy,NA,NA,NA,NA,NA,NA,NA
+CONUS,Colorado,"USAREC, Denver Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Connecticut,Naval Submarine Base New London,NA,NA,NA,NA,NA,NA,NA
+CONUS,Delaware,Dover AFB,3382,4114,1063,NA,NA,NA,1523
+CONUS,District Of Columbia,Joint Base Anacostia-Bolling,NA,NA,NA,NA,NA,NA,NA
+CONUS,District Of Columbia,Joint Base Anacostia-Bolling ,NA,NA,NA,NA,NA,NA,NA
+CONUS,District Of Columbia,Naval Support Activity Washington,NA,NA,NA,NA,NA,NA,NA
+CONUS,District Of Columbia,Pentagon - Air Force,NA,NA,3000,NA,NA,NA,NA
+CONUS,Florida,Eglin AFB,NA,NA,NA,NA,NA,NA,NA
+CONUS,Florida,Hurlburt Field,8036,11066,1858,2310,NA,NA,7731
+CONUS,Florida,MacDill AFB,19900,34600,2900,NA,37900,NA,NA
+CONUS,Florida,Naval Air Station Jacksonville,10427,34000,8354,2500,NA,NA,NA
+CONUS,Florida,Naval Air Station Key West,NA,NA,NA,NA,NA,NA,NA
+CONUS,Florida,Naval Air Station Pensacola,14544,NA,NA,NA,NA,NA,NA
+CONUS,Florida,Naval Air Station Whiting Field,4440,9300,1534,1530,18600,NA,NA
+CONUS,Florida,Naval Station Mayport,NA,NA,NA,NA,NA,NA,NA
+CONUS,Florida,Naval Support Activity Orlando,2200,350,2200,NA,48000,NA,3200
+CONUS,Florida,Naval Support Activity Panama City,NA,NA,NA,NA,NA,NA,NA
+CONUS,Florida,Patrick AFB,3500,5500,9714,3100,NA,NA,NA
+CONUS,Florida,Tyndall AFB,4500,NA,2799,NA,9257,NA,NA
+CONUS,Florida,"USAREC, Jacksonville Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Florida,"USAREC, Miami Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Florida,"USAREC, Tampa Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Florida,USSOUTHCOM/U.S. Army Garrison-Miami,NA,NA,1200,NA,NA,NA,NA
+CONUS,Georgia,Fort Benning,46812,3745,3745,NA,NA,NA,NA
+CONUS,Georgia,Fort Gordon,22450,10776,10776,NA,45001,45001,NA
+CONUS,Georgia,Fort Stewart,21000,29500,3500,NA,18200,NA,NA
+CONUS,Georgia,Hunter Army Airfield,5709,14389,737,NA,6004,NA,NA
+CONUS,Georgia,Marine Corps Logistics Base - Albany,329,4940,7539,NA,7000,NA,NA
+CONUS,Georgia,Moody AFB,4499,6252,476,NA,NA,NA,NA
+CONUS,Georgia,Naval Submarine Base Kings Bay,NA,NA,NA,NA,NA,NA,NA
+CONUS,Georgia,Robins AFB,NA,NA,23000,NA,NA,NA,NA
+CONUS,Georgia,US Army Cadet Command 6th Brigade,NA,NA,NA,NA,NA,NA,NA
+CONUS,Georgia,"USAREC, Atlanta Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Guam,Joint Region Marianas - Naval Base Guam,12000,NA,NA,NA,NA,NA,NA
+CONUS,Idaho,Mountain Home AFB,3173,3900,582,NA,10000,NA,NA
+CONUS,Illinois,Naval Station Great Lakes,4000,NA,3000,2000,NA,NA,NA
+CONUS,Illinois,Rock Island Arsenal,557,NA,5606,NA,NA,NA,NA
+CONUS,Illinois,Scott Air Force Base,14800,NA,NA,NA,NA,NA,NA
+CONUS,Illinois,US Army Cadet Command 3rd Brigade,NA,NA,NA,NA,NA,NA,NA
+CONUS,Illinois,"USAREC, Chicago Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Indiana,"USAREC, Indianapolis Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Kansas,Fort Leavenworth,3704,NA,2820,NA,NA,NA,NA
+CONUS,Kansas,Fort Riley,NA,NA,NA,NA,NA,NA,NA
+CONUS,Kansas,McConnell AFB,3250,9000,915,NA,9000,NA,NA
+CONUS,Kentucky,Fort Campbell,NA,NA,NA,NA,NA,NA,NA
+CONUS,Kentucky,Fort Knox,NA,NA,NA,NA,NA,NA,NA
+CONUS,Kentucky,US Army Cadet Command 1st Brigade,NA,NA,NA,NA,NA,NA,NA
+CONUS,Kentucky,US Army Cadet Command 7th Brigade,NA,NA,NA,NA,NA,NA,NA
+CONUS,Kentucky,US Army Cadet Command Headquarters,NA,NA,NA,NA,NA,NA,NA
+CONUS,Kentucky,"USAREC, 3rd Medical Recruiting Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Kentucky,"USAREC, Columbus Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Louisiana,Barksdale Air Force Base,6510,4880,2420,NA,40000,NA,6510
+CONUS,Louisiana,Fort Polk,20145,26545,8994,NA,3291,14408,NA
+CONUS,Louisiana,Naval Air Station Joint Reserve Base New Orleans,NA,NA,NA,NA,NA,NA,NA
+CONUS,Maine,Portsmouth Naval Shipyard,NA,NA,8000,NA,NA,NA,NA
+CONUS,Maine,"USAREC, New England Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Maryland,Aberdeen Proving Ground,17032,1381,19518,3231,NA,16000,NA
+CONUS,Maryland,Fort Detrick,9799,NA,NA,NA,NA,NA,NA
+CONUS,Maryland,Fort George G. Meade,NA,NA,NA,NA,NA,NA,NA
+CONUS,Maryland,Fort George G. Meade - Navy,NA,NA,NA,NA,NA,NA,NA
+CONUS,Maryland,Joint Base Andrews-Naval Air Facility Washington,NA,NA,2300,NA,NA,NA,NA
+CONUS,Maryland,Naval Air Station Patuxent River,2400,4500,9800,5700,NA,NA,NA
+CONUS,Maryland,Naval Support Activity Annapolis  - U.S. Naval Academy,NA,NA,580,NA,NA,NA,NA
+CONUS,Maryland,Naval Support Activity Bethesda Home of Walter Reed National Military Medical Center,12000,NA,12000,NA,NA,NA,NA
+CONUS,Maryland,Naval Support Activity South Potomac (NSF Indian Head),NA,NA,NA,NA,NA,NA,NA
+CONUS,Maryland,"USAREC, 1st Medical Recruiting Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Maryland,"USAREC, Baltimore Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Massachusetts,Hanscom AFB,NA,NA,NA,NA,NA,NA,NA
+CONUS,Massachusetts,Natick Soldier Systems Center (NSSC),120,NA,1750,250,NA,NA,NA
+CONUS,Massachusetts,Westover ARB,650,NA,650,NA,NA,NA,NA
+CONUS,Michigan,Hart-Dole-Inouye Federal Center,1900,NA,1900,NA,NA,NA,NA
+CONUS,Michigan,USAG Detroit Arsenal,245,NA,8403,NA,NA,NA,NA
+CONUS,Michigan,"USAREC, Great Lakes Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Minnesota,"USAREC, Minneapolis Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Mississippi,Columbus AFB,2020,NA,1496,NA,NA,NA,2020
+CONUS,Mississippi,Keesler AFB,7090,3961,3724,1700,114094,NA,NA
+CONUS,Mississippi,Naval Air Station Meridian,NA,NA,NA,NA,NA,NA,NA
+CONUS,Mississippi,Naval Construction Battalion Center Gulfport,4451,NA,780,NA,6400,NA,NA
+CONUS,Mississippi,Stennis Space Center,NA,NA,NA,NA,NA,NA,NA
+CONUS,Missouri,Fort Leonard Wood,6946,12183,9527,NA,NA,55170,NA
+CONUS,Missouri,"USAREC, Kansas City Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Missouri,Whiteman AFB,NA,NA,NA,NA,NA,NA,NA
+CONUS,Montana,Malmstrom Air Force Base,3146,619,800,619,NA,NA,NA
+CONUS,Nebraska,Offutt AFB,8319,6404,3841,NA,NA,NA,NA
+CONUS,Nevada,Creech AFB,3000,NA,NA,NA,NA,NA,NA
+CONUS,Nevada,Naval Air Station Fallon,3000,NA,NA,NA,NA,NA,NA
+CONUS,Nevada,Nellis AFB,3187,11589,3187,NA,NA,NA,NA
+CONUS,Nevada,"USAREC, 6th Medical Recruiting Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,New Jersey,Joint Base McGuire-Dix-Lakehurst,NA,NA,NA,NA,NA,NA,NA
+CONUS,New Jersey,Naval Weapons Station Earle,2000,NA,2000,NA,NA,NA,NA
+CONUS,New Jersey,Picatinny Arsenal,100,254,6000,NA,NA,NA,NA
+CONUS,New Jersey,US Army Cadet Command 2nd Brigade,NA,NA,NA,NA,NA,NA,NA
+CONUS,New Jersey,"USAREC, Mid-Atlantic Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,New Mexico,Cannon AFB,4719,5481,620,NA,5980,NA,NA
+CONUS,New Mexico,Holloman AFB,NA,NA,NA,NA,NA,NA,NA
+CONUS,New Mexico,Kirtland Air Force Base,NA,NA,NA,NA,NA,NA,NA
+CONUS,New Mexico,U.S. Army Garrison White Sands Missile Range,NA,NA,NA,NA,NA,NA,NA
+CONUS,New York,Fort Drum,13859,18613,4641,NA,NA,NA,NA
+CONUS,New York,Fort Hamilton,NA,NA,NA,NA,NA,NA,NA
+CONUS,New York,Naval Support Activity Saratoga Springs,3000,NA,NA,NA,NA,NA,NA
+CONUS,New York,"USAREC, Albany Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,New York,"USAREC, New York City Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,New York,"USAREC, Syracuse Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,New York,United States Military Academy at West Point,3000,3000,5000,NA,NA,NA,NA
+CONUS,North Carolina,Camp Lejeune,37350,57488,5737,NA,NA,18719,NA
+CONUS,North Carolina,Fort Bragg,52280,62962,8757,NA,98507,NA,12624
+CONUS,North Carolina,MCAS Cherry Point,9033,26374,5164,NA,12810,NA,NA
+CONUS,North Carolina,MCAS New River,NA,NA,NA,NA,NA,NA,NA
+CONUS,North Carolina,Pope Army Airfield,2500,4235,945,NA,NA,NA,2500
+CONUS,North Carolina,Seymour Johnson AFB,4600,6000,1000,NA,NA,NA,882
+CONUS,North Carolina,US Army Cadet Command 4th Brigade,NA,NA,NA,NA,NA,NA,NA
+CONUS,North Carolina,"USAREC, Raleigh Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,North Dakota,Grand Forks AFB,NA,NA,NA,NA,NA,NA,NA
+CONUS,North Dakota,Minot AFB,NA,NA,NA,NA,NA,NA,NA
+CONUS,Ohio,Defense Supply Center Columbus,NA,NA,NA,NA,NA,NA,NA
+CONUS,Ohio,"USAREC, Cleveland Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Ohio,"USAREC, Columbus Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Ohio,Wright-Patterson AFB,13000,NA,13000,NA,100,NA,NA
+CONUS,Oklahoma,Altus AFB,5000,NA,NA,NA,NA,NA,NA
+CONUS,Oklahoma,Fort Sill,NA,33000,20000,NA,NA,NA,NA
+CONUS,Oklahoma,McAlester Army Ammunition Plant,NA,NA,1865,NA,NA,NA,NA
+CONUS,Oklahoma,Tinker AFB,NA,NA,NA,NA,NA,NA,NA
+CONUS,Oklahoma,"USAREC, Oklahoma City Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Oklahoma,Vance AFB,1200,1100,1300,NA,2200,NA,1200
+CONUS,Oregon,"USAREC, Portland Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Pennsylvania,Carlisle Barracks,105063,1693,1299,NA,51357,53039,NA
+CONUS,Pennsylvania,Defense Logistics Agency at Susquehanna,NA,NA,NA,NA,NA,NA,NA
+CONUS,Pennsylvania,Tobyhanna Army Depot,NA,NA,2877,966,NA,NA,7800
+CONUS,Pennsylvania,"USAREC, Harrisburg Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Rhode Island,Naval Station Newport,NA,NA,6838,2798,NA,NA,1030
+CONUS,South Carolina,Fort Jackson,63500,12000,3500,NA,46000,NA,NA
+CONUS,South Carolina,Joint Base Charleston,NA,NA,NA,NA,NA,NA,NA
+CONUS,South Carolina,Joint Base Charleston ,NA,NA,NA,NA,NA,NA,NA
+CONUS,South Carolina,MCAS Beaufort,NA,NA,NA,NA,NA,NA,NA
+CONUS,South Carolina,MCRD Parris Island,NA,NA,NA,NA,NA,NA,NA
+CONUS,South Carolina,Shaw Air Force Base,7140,14000,730,NA,NA,NA,NA
+CONUS,South Carolina,"USAREC, Columbia Recruiting Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,South Dakota,Ellsworth Air Force Base,3000,1700,500,NA,3800,NA,NA
+CONUS,Tennessee,Arnold AFB,NA,NA,2020,1700,NA,NA,NA
+CONUS,Tennessee,Naval Support Activity Mid-South,NA,NA,NA,NA,NA,NA,NA
+CONUS,Tennessee,"USAREC, Nashville Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Texas,Dyess AFB,4369,5101,715,NA,3579,NA,NA
+CONUS,Texas,Fort Bliss,35918,76391,12096,NA,41432,39018,NA
+CONUS,Texas,Fort Hood,39865,NA,12895,12895,386193,NA,NA
+CONUS,Texas,Goodfellow AFB,5100,NA,NA,NA,NA,NA,NA
+CONUS,Texas,Joint Base San Antonio (Lackland Randolph Sam Houston),NA,NA,NA,NA,NA,NA,NA
+CONUS,Texas,"Joint Base San Antonio (Lackland, Randolph, Sam Houston)",NA,NA,NA,NA,NA,NA,NA
+CONUS,Texas,Laughlin AFB,NA,NA,NA,NA,NA,NA,NA
+CONUS,Texas,Naval Air Station Corpus Christi,2836,40048,4402,NA,NA,28810,NA
+CONUS,Texas,Naval Air Station Joint Reserve Base Fort Worth,NA,NA,NA,NA,NA,NA,NA
+CONUS,Texas,Naval Air Station Kingsville,486,NA,115,NA,NA,NA,NA
+CONUS,Texas,Red River Army Depot,NA,9000,5000,NA,NA,NA,2500
+CONUS,Texas,Sheppard AFB,NA,NA,NA,NA,NA,NA,NA
+CONUS,Texas,US Army Cadet Command 5th Brigade,NA,NA,NA,NA,NA,NA,NA
+CONUS,Texas,"USAREC, 5th Medical Recruiting Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Texas,"USAREC, Dallas Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Texas,"USAREC, Houston Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Texas,"USAREC, San Antonio Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Utah,Dugway Proving Ground,NA,NA,1500,NA,NA,NA,NA
+CONUS,Utah,Hill AFB,NA,NA,NA,NA,NA,NA,NA
+CONUS,Utah,"USAREC, Salt Lake City Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Virginia,DLA McNamara HQC,NA,NA,NA,NA,NA,NA,NA
+CONUS,Virginia,Defense Supply Center Richmond,NA,NA,2400,400,NA,NA,NA
+CONUS,Virginia,Fort Belvoir,2529,NA,6732,NA,NA,NA,NA
+CONUS,Virginia,Fort Lee,17700,11400,7380,7380,NA,53600,1100
+CONUS,Virginia,Fort Myer (Joint Base Myer - Henderson Hall),9800,3500,1000,NA,NA,NA,NA
+CONUS,Virginia,Henderson Hall (Joint Base Myer - Henderson Hall),NA,2800,1200,NA,NA,NA,NA
+CONUS,Virginia,Joint Base Langley-Eustis,145000,NA,NA,NA,NA,NA,NA
+CONUS,Virginia,Joint Expeditionary Base Little Creek-Fort Story,NA,NA,NA,NA,NA,NA,NA
+CONUS,Virginia,MCCS Hampton Roads,300,NA,120,NA,NA,NA,NA
+CONUS,Virginia,Marine Corps Base Quantico,NA,NA,NA,NA,NA,NA,NA
+CONUS,Virginia,Naval Air Station Oceana,10500,10000,4500,NA,NA,NA,NA
+CONUS,Virginia,Naval Air Station Oceana Dam Neck Annex,NA,NA,NA,NA,NA,NA,NA
+CONUS,Virginia,Naval Station Norfolk,NA,NA,NA,NA,NA,NA,NA
+CONUS,Virginia,Naval Support Activity Hampton Roads Northwest Annex,793,436,316,NA,NA,NA,NA
+CONUS,Virginia,Naval Support Activity South Potomac (NSF Dahlgren),NA,NA,NA,NA,NA,NA,NA
+CONUS,Virginia,Naval Weapons Station Yorktown,111328,111328,46695,NA,46695,NA,NA
+CONUS,Virginia,Newport News Shipyard,120000,120000,27439,NA,27439,NA,NA
+CONUS,Virginia,Norfolk Naval Shipyard,NA,NA,12000,NA,NA,NA,NA
+CONUS,Virginia,Surface Combat Systems Center Wallops Island,300,NA,NA,NA,NA,NA,NA
+CONUS,Virginia,"USAREC, Richmond Recruiting Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Washington,Fairchild AFB,3053,NA,486,NA,17509,NA,938
+CONUS,Washington,Joint Base Lewis-McChord,NA,NA,NA,NA,NA,NA,NA
+CONUS,Washington,Naval Air Station Whidbey Island,8414,18511,2100,2100,10000,NA,500
+CONUS,Washington,Naval Base Kitsap,15601,18700,25563,NA,35908,NA,NA
+CONUS,Washington,Naval Station Everett,NA,NA,1230,NA,NA,NA,NA
+CONUS,Washington,US Army Cadet Command 8th Brigade,NA,NA,NA,NA,NA,NA,NA
+CONUS,Washington,"USAREC, Seattle Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Wisconsin,Fort McCoy,152500,NA,450,NA,150000,NA,NA
+CONUS,Wisconsin,"USAREC, Milwaukee Battalion",NA,NA,NA,NA,NA,NA,NA
+CONUS,Wyoming,F. E. Warren AFB,NA,NA,NA,NA,NA,NA,NA
+OCONUS,Alaska,Eielson AFB,1764,2028,4471,2082,2082,NA,NA
+OCONUS,Alaska,Joint Base Elmendorf - Richardson JBER,NA,NA,NA,NA,NA,NA,NA
+OCONUS,Alaska,"USAG Alaska, Greely",NA,NA,NA,NA,NA,NA,NA
+OCONUS,Alaska,"USAG Alaska, Wainwright",NA,NA,NA,NA,NA,NA,NA
+OCONUS,"Armed Forces Europe, Middle East, Africa",Ankara,NA,NA,NA,NA,NA,NA,NA
+OCONUS,"Armed Forces Europe, Middle East, Africa",Lajes Field,NA,NA,NA,NA,NA,NA,NA
+OCONUS,Armed Forces Pacific,Camp Humphreys / USAG Humphreys,NA,NA,NA,NA,NA,NA,NA
+OCONUS,Australia,Canberra,200,NA,NA,NA,NA,NA,NA
+OCONUS,Bahrain,Naval Support Activity Bahrain,9000,NA,9000,NA,NA,NA,NA
+OCONUS,Belgium,Kleine Brogel Air Base,NA,NA,NA,NA,NA,NA,NA
+OCONUS,Belgium,USAG BENELUX-Brussels-Schinnen,NA,NA,NA,NA,NA,NA,NA
+OCONUS,Belgium,USAG BENELUX-SHAPE/Chievres,NA,NA,NA,NA,NA,NA,NA
+OCONUS,British Indian Ocean Territory,Navy Support Facility Diego Garcia,2000,NA,2000,NA,NA,NA,NA
+OCONUS,Cuba,Naval Station Guantanamo Bay,NA,NA,NA,NA,NA,NA,NA
+OCONUS,Germany,"Ansbach, United States Army Garrison",NA,NA,NA,NA,NA,NA,NA
+OCONUS,Germany,Buechel Air Base ,702,360,NA,NA,NA,NA,NA
+OCONUS,Germany,Geilenkirchen NATO Air Base,450,NA,NA,NA,NA,NA,NA
+OCONUS,Germany,Kalkar - U.S. Air Force Element,NA,NA,NA,NA,NA,NA,NA
+OCONUS,Germany,Ramstein AB,NA,NA,NA,NA,NA,NA,NA
+OCONUS,Germany,Spangdahlem AB,NA,NA,NA,NA,NA,NA,NA
+OCONUS,Germany,USAG Bavaria,NA,NA,NA,NA,NA,NA,NA
+OCONUS,Germany,"USAG Bavaria, Garmisch",100,NA,NA,NA,NA,NA,NA
+OCONUS,Germany,"USAG Bavaria, Hohenfels",1700,1600,319,NA,NA,NA,NA
+OCONUS,Germany,USAG Rheinland-Pfalz Kaiserslautern Military Community,35000,NA,NA,NA,NA,NA,NA
+OCONUS,Germany,"USAG Rheinland-Pfalz, Baumholder",7000,NA,NA,NA,NA,NA,NA
+OCONUS,Germany,USAG Stuttgart,NA,NA,NA,NA,NA,NA,NA
+OCONUS,Germany,USAG Wiesbaden,3900,1100,5100,NA,1100,NA,NA
+OCONUS,Greece,Naval Support Activity Souda Bay,NA,NA,NA,200,NA,NA,NA
+OCONUS,Guam,Joint Region Marianas - Andersen AFB,NA,2202,865,436,2366,NA,NA
+OCONUS,Hawaii,Joint Base Pearl Harbor - Hickam,NA,NA,NA,NA,NA,NA,NA
+OCONUS,Hawaii,MCB Hawaii,NA,NA,NA,NA,NA,NA,NA
+OCONUS,Hawaii,Schofield Barracks/Fort Shafter ,NA,NA,NA,NA,NA,NA,NA
+OCONUS,Hungary,Papa Air Base ,NA,1000,NA,NA,NA,NA,NA
+OCONUS,Italy,Aviano Air Base,NA,NA,NA,NA,NA,NA,NA
+OCONUS,Italy,Ghedi Air Base,134,NA,NA,NA,NA,NA,NA
+OCONUS,Italy,Naval Air Station Sigonella,2173,1930,NA,NA,NA,NA,NA
+OCONUS,Italy,Naval Support Activity Naples,3387,4828,1210,NA,NA,NA,NA
+OCONUS,Italy,Naval Support Activity Naples Department Gaeta,NA,NA,NA,NA,NA,NA,NA
+OCONUS,Italy,USAG Italy,NA,NA,NA,NA,NA,NA,NA
+OCONUS,Italy,USAG Italy-Darby Military Community,NA,NA,NA,NA,NA,NA,NA
+OCONUS,Japan,"Camp S D Butler (Camp Foster, Kinser, Courtney, Hansen, Schwab and MCAS Futenma)",NA,NA,NA,NA,NA,NA,NA
+OCONUS,Japan,Commander Fleet Activities Sasebo,3100,2200,500,NA,NA,NA,NA
+OCONUS,Japan,Commander Fleet Activities Yokosuka,NA,NA,24500,NA,NA,NA,NA
+OCONUS,Japan,Kadena AB,30000,25700,1400,NA,NA,NA,NA
+OCONUS,Japan,Marine Corps Air Station Iwakuni,NA,NA,NA,NA,NA,NA,NA
+OCONUS,Japan,Misawa AB,NA,NA,NA,NA,NA,NA,NA
+OCONUS,Japan,Naval Air Facility Atsugi,3022,2648,455,NA,NA,NA,NA
+OCONUS,Japan,"USAG Japan, Zama",NA,NA,NA,NA,NA,NA,NA
+OCONUS,Japan,"USAG Okinawa, Torii Station",1670,1899,321,321,NA,NA,NA
+OCONUS,Japan,Yokota AB,3500,NA,374,NA,NA,NA,NA
+OCONUS,"Korea, Republic Of",Commander Fleet Activities Chinhae,NA,NA,NA,NA,NA,NA,NA
+OCONUS,"Korea, Republic Of",Kunsan AB,2771,NA,NA,NA,NA,NA,NA
+OCONUS,"Korea, Republic Of",Osan Air Base,5596,2000,150,NA,NA,500,NA
+OCONUS,"Korea, Republic Of",USAG Daegu,1100,NA,NA,NA,NA,NA,NA
+OCONUS,"Korea, Republic Of",USAG Yongsan-Casey,3178,2473,1542,773,NA,NA,NA
+OCONUS,Netherlands,United States Army Garrison BENELUX-Schinnen,NA,NA,NA,NA,NA,NA,NA
+OCONUS,Netherlands,Volkel Air Base,NA,NA,350,350,NA,NA,NA
+OCONUS,Norway,Stavanger,NA,NA,NA,NA,NA,NA,NA
+OCONUS,Puerto Rico,Fort Buchanan,NA,NA,NA,NA,NA,NA,NA
+OCONUS,Singapore,Singapore Area Coordinator,NA,NA,NA,NA,NA,NA,NA
+OCONUS,Spain,Moron AB,NA,NA,450,450,NA,NA,NA
+OCONUS,Spain,Naval Station Rota,2349,496,496,NA,300,NA,NA
+OCONUS,Turkey,Incirlik AB,1465,NA,NA,NA,NA,NA,NA
+OCONUS,Turkey,Izmir AS,NA,NA,NA,NA,NA,NA,NA
+OCONUS,United Kingdom,"RAF Alconbury, RAF Molesworth",6000,6000,NA,NA,NA,NA,NA
+OCONUS,United Kingdom,"RAF Croughton, RAF Fairford",NA,NA,NA,NA,NA,NA,NA
+OCONUS,United Kingdom,RAF Lakenheath,5500,NA,2700,NA,NA,NA,NA
+OCONUS,United Kingdom,RAF Mildenhall,3000,3000,900,NA,NA,NA,NA
